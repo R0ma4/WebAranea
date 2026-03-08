@@ -4,6 +4,7 @@
 [![C#](https://img.shields.io/badge/C%23-11-512BD4?style=flat&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![WPF](https://img.shields.io/badge/WPF-11-512BD4?style=flat&logo=WPF)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Version](https://img.shields.io/badge/ArborRoot-Alfa_1.0-blue)](https://github.com/R0ma4/ArborRoot)
+[![.NET10](https://img.shields.io/badge/.NET10_-blue)]()
 
 [![Windows](https://img.shields.io/badge/Windows-512BD4?style=flat&logo=Windows)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Linux](https://img.shields.io/badge/Linux-512BD4?style=flat&logo=Windows)](https://learn.microsoft.com/en-us/dotnet/csharp/)
@@ -27,6 +28,14 @@
 ---
 
 ### 📦 Компоненты фреймворка
+| Использованная библиотека | Описание |
+|-----------|-------------|
+| **🌐 CefSharp** | Основной движок |
+| **🌐 WebView2** | Дополнительный движок |
+| **📁 System.Text.Json** | Работа с JSON форматом |
+| **🌐 HttpClient** | Для работы с серверной частью |
+| **🔒 NLog** | Библиотека для логирования |
+
 
 # Установка
 [ССЫЛКА НА lissues] или другую страницу установки
